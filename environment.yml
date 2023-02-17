@@ -1,8 +1,5 @@
 name: environment
 dependencies:
-  - python
-  - numpy
-  - pip
   - pip:
     - random
     - math
